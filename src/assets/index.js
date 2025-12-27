@@ -1,4 +1,4 @@
-import adil from "./images/adil.jpg";
+import adil from "./images/adil.png";
 import bannerImg from "./images/bannerImg.jpeg";
 import bookstore from './images/projects/bookstore.png'
 import notesave from './images/projects/notesave.png'
